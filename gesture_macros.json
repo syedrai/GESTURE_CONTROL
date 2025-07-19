@@ -1,0 +1,11 @@
+{
+    "fist": "click",
+    "thumbs_up": "vol:up",
+    "thumbs_down": "vol:down",
+    "open_palm": "key:alt+tab",
+    "two_fingers": "voice",
+    "screenshot": "screenshot",
+    "stealth_mode": "stealth",
+    "point": "none",
+    "voice_trigger": "voice"
+}
